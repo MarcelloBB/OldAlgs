@@ -1,4 +1,5 @@
 # OldAlgs
-Algoritmos antigos feitos em Python 3
+Old algorithms made in Python 3x.
+PS: Some scripts are only available in PT-BR.
 
 # Fim
